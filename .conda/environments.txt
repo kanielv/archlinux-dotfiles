@@ -1,2 +1,0 @@
-/home/kanielv/anaconda3
-/home/kanielv/anaconda3/envs/FundML
