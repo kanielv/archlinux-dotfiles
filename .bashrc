@@ -23,7 +23,10 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
 
 # bash completion
 source /usr/share/bash-completion/completions/git
 __git_complete config __git_main
+
